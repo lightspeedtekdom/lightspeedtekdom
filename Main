@@ -1,0 +1,1 @@
+git clone ssh://codeserver.dev.10049489-7b44-46bb-b1af-33fee9f6d66c@codeserver.dev.10049489-7b44-46bb-b1af-33fee9f6d66c.drush.in:2222/~/repository.git -b master lightspeed-tek
